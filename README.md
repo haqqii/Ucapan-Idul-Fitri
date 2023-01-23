@@ -1,3 +1,2 @@
-# idul-fitri.github.io
-Selamat hari raya idul fitri
-Mohon Maaf lahir dan batin
+# Selamat Hari Raya Idul Fitri
+### Mohon Maaf Lahir dan Batin
